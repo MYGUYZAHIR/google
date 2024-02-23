@@ -12,7 +12,7 @@ module.exports = (req, res) => {
   //   }
 
   createProxyMiddleware({
-    target,
+    google.com,
     changeOrigin: true,
     pathRewrite: {
       // rewrite request path `/backend`
